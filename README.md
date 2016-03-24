@@ -1,4 +1,4 @@
-command config: 
+#command config: 
 
 		$ npm init
 		$ npm install react react-dom --save
